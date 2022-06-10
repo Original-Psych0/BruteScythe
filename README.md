@@ -1,4 +1,5 @@
 <h1 align="center">BruteScythe</h1>
+<h2 align="center">BruteScythe has been transferred to an organization called <a href="https://github.com/OTAKKATO">OTAK</a> and It's now a part of <a href="https://github.com/OTAKKATO/YourN3xt">YourN3xt</a>.</h2>
 <h4 align="center">Fast and customizable AIO websites bruteforcer</h4>
 <p align="center">
 	<a href="https://github.com/Original-Psych0/BruteScythe/blob/mBruteScythen/LICENSE"><img src="https://img.shields.io/github/license/Original-Psych0/BruteScythe?style=flat-square"></img></a>
